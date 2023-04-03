@@ -1,0 +1,3 @@
+[default-tag] [criticality:0]make a level0 log
+[default-tag] [criticality:1]another critical log
+[this is a system specific log] [criticality:2]this is a medium criticality log
